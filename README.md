@@ -1,2 +1,2 @@
 # power-dashboard
-this is the powerbi dashboard repository
+This is the power-dashboard end-to-end Project
